@@ -1,0 +1,1 @@
+son1 = int(input("birinchi sonni kiriting:"))
